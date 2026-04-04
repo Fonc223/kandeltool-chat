@@ -11,7 +11,13 @@
       "recipient": "",
       "reactions": [
         {
-          "emoji": "💀",
+          "emoji": "ð",
+          "users": [
+            "Ponos211"
+          ]
+        },
+        {
+          "emoji": "❤️",
           "users": [
             "Ponos211"
           ]

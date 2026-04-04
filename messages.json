@@ -9,7 +9,14 @@
       "hash": "776119d7",
       "isPrivate": false,
       "recipient": "",
-      "reactions": []
+      "reactions": [
+        {
+          "emoji": "💀",
+          "users": [
+            "Ponos211"
+          ]
+        }
+      ]
     }
   ]
 }

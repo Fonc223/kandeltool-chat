@@ -1,3 +1,15 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "id": "mnkk49v0-vxpd46",
+      "sender": "Ponos211",
+      "encrypted": "U2FsdGVkX1/xkO8ovtlLXqV5TI85SHTyNw+9ntA5RQE=",
+      "room": "general",
+      "timestamp": "2026-04-04T16:38:39.082Z",
+      "hash": "776119d7",
+      "isPrivate": false,
+      "recipient": "",
+      "reactions": []
+    }
+  ]
 }
